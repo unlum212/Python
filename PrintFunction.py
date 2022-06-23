@@ -28,6 +28,8 @@ print(type(a))
 print(type(b))
 #Output
 '''
+<class 'int'>
+<class 'str'>
 7.2
 <class 'int'>
 <class 'float'>
