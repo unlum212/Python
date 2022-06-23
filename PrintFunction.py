@@ -1,9 +1,6 @@
 #Print() Function and Formatting
 
-"""In this section, we will learn about the print()
-function and formatting methods we use to print data types to the screen.
-"""
-
+#In this section, we will learn about the print() function and formatting methods we use to print data types to the screen.
 #Examples
 print(10)
 print(3.14)
