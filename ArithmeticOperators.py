@@ -1,3 +1,5 @@
+# coding by Muhammet Unlu (muhammetunlu@gmail.com)
+
 #Arithmetic operators are used to perform mathematical operations like addition, subtraction, multiplication and division.
 #Examples
 a = 12
