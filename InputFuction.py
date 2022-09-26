@@ -1,3 +1,5 @@
+# coding by Muhammet Unlu (muhammetunlu@gmail.com)
+
 #Input() Function
 #Python input() function is used to take user input. By default, it returns the user input in form of a string.
 #Examples
